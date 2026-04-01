@@ -125,7 +125,7 @@ export default function Footer() {
             © {new Date().getFullYear()} Muscle Power. Built for Titans.
           </p>
           <p className="text-ash/20 text-[10px] font-body tracking-[0.1em] uppercase">
-            Developed by <span className="text-crimson/50 font-bold">Pentacore Solution</span>
+            Developed by <span className="text-crimson/50 font-bold">Xplore Automations</span>
           </p>
         </div>
       </div>
